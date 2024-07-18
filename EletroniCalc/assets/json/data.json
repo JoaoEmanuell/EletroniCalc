@@ -1,0 +1,23 @@
+{
+    "kw_hour": 0.77,
+    "devices": {
+        "Air_fryer": 1500,
+        "Liquidificador": 100,
+        "Ar_condicionado_7.500_BTUs": 1000,
+        "Ar_condicionado_10.000_BTUs": 1350,
+        "Ar_condicionado_12.000_BTUs": 1450,
+        "Ar_condicionado_15.000_BTUs": 2000,
+        "Ar_condicionado_18.000_BTUs": 2100,
+        "Lâmpada_fluorescente": 15,
+        "Lâmpada_incandescente_60w": 60,
+        "Lâmpada_incandescente_100w": 100,
+        "Lâmpada_led": 8.5,
+        "Aspirador_de_pó": 300,
+        "Carregador": 15,
+        "Chuveiro_elétrico": 2400,
+        "Rádio": 50,
+        "Secador_de_cabelos": 400,
+        "Televisão": 300,
+        "Ventilador": 100
+    }
+}
